@@ -1,0 +1,9 @@
+@article{REPO-242,
+    author = "Jha, Kanchan and Saha, Sriparna and Singh, Hiteshi",
+    journal = "Scientific Reports",
+    number = "1",
+    pages = "8360",
+    title = "{Prediction of Protein-protein Interaction Using Graph Neural Networks}",
+    volume = "12",
+    year = "2022"
+}
